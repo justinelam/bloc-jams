@@ -19,27 +19,41 @@ block body
   //- This creates a `div` element with two css classes applied to it
 
       Note: The period after the closing paren is important!
+  
         Without it, Jade turns the 'A' into a '<A>'.
-  div(class="grey-background orange-text").
-  .grey-background
-    .orange-text.
-      A div with the CSS classes 'grey-background' and 'orange-text' applied to it.
+  
+  .wrapper
+    nav
+      ul
+        li 
+          a(href="about.HTML") About
+        li 
+          a(href="portfolio.HTML") Portfolio
+        li 
+          a(href="contact.HTML") Contact
 
-  //- Another alternative for the above is to use
-    the vertical bar '|' (typed pressing shift and backslash). The vertical bar prevents
-    the following word from being turned into an '<A>' tag.
-  div(class="grey-background orange-text")
-    | A second div with the CSS classes 'grey-background' and 'orange-text' applied to it.
+    h1 Welcome to my first Jade/SCSS Site!
+    
+    div.columns
+      section  When you write HTML you've probably noticed that it has a fairly clear nested, visual hierarchy. CSS, on the other hand, isn't. Sass will let you nest your CSS selectors in a way that follows the same visual hierarchy of your HTML. Here's an example of some typical styles for a site's navigation. <img src="http://www.google.com/images/srpr/logo11w.png", alt="Google Logo">
 
-  a(href="http://google.com", class="orange-text") This is a link to google.
+      section You can create partial Sass files that contain little snippets of CSS that you can include in other Sass files. This is a great way to modularize your CSS and help keep things easier to maintain. A partial is simply a Sass file named with a leading underscore. You might name it something like _partial.scss. The underscore lets Sass know that the file is only a partial file and that it should not be generated into a CSS file. Sass partials are used with the @import directive. 
+        a(href="about.html") About Me Link.
+        | And this is to test the next sentence.
+        p And next paragraph.
 
-  //- This is an image with the source of an image being Google's logo.
-  img(src="http://www.google.com/images/srpr/logo11w.png")
+      section.
+        CSS has an import option that lets you split your CSS into smaller, more maintainable portions. The only drawback is that each time you use @import in CSS it creates another HTTP request. Sass builds on top of the current CSS @import but instead of requiring an HTTP request, Sass will take the file that you want to import and combine it with the file you're importing into so you can serve a single CSS file to the web browser.
 
-  a(href="http://google.com", class="orange-text") This is a link to google.
+    
 
+    footer.
+      Justine Lam &copy 2014
+  
+
+//- A element with two attributes. Note the comma that separates attributes.
 
   //- Step 3 code goes below. Watch your indentation! Each additional level should be indented by 2 spaces.
 
 
-
+  a(href="http://google.com", class="orange-text") This is a link to google.

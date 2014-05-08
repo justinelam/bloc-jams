@@ -11,11 +11,10 @@ html
     script(src='/test/javascripts/blanket.js', data-cover-flags="commonJS")
     script(src='/test/javascripts/test.js')
     script
-      $(function() {
-        if (window.mochaPhantomJS) { mochaPhantomJS.run(); }
-        else { mocha.run(); }
-      });
-
+      $(function() {}
+      if (window.mochaPhantomJS) { mochaPhantomJS.run(); }
+        else { mocha.run();}
+      )};
   body
     #mocha
     #AppView

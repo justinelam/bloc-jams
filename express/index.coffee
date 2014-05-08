@@ -32,8 +32,12 @@ app.get '/album', controllers.album('Album View')
 app.get '/test', controllers.test('Mocha Tests')
 app.get '/user', controllers.user('User')
 app.get '/practice', controllers.practice('Practice your HTML')
+app.get '/practice2', controllers.practice2('Practice your HTML')
+
+
 
 ### Default 404 middleware ###
 app.use controllers.error('Page not found :(', 404)
 
 module.exports = exports = app
+

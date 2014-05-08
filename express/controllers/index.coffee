@@ -29,3 +29,7 @@ exports.user = (title) ->
 exports.practice = (title) ->
   (req, res) ->
     res.render 'practice', {title: title}
+
+exports.practice2 = (title) ->
+  (req, res) ->
+    res.render 'practice2', {title: title}
