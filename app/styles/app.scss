@@ -16,91 +16,91 @@
   border-radius: $radius;
 }
 
-body, html {
-  // Allows us to set the min-height for child elements.
-  height: 100%;
-}
+// body, html {
+//   // Allows us to set the min-height for child elements.
+//   // height: 100%;
+// }
 
-// Want the edges for Bootstrap navbars to be non-rounded.
-.navbar {
-  border-radius: 0;
-  margin-bottom: 0;
+// // // Want the edges for Bootstrap navbars to be non-rounded.
+// // .navbar {
+// //   border-radius: 0;
+// //   margin-bottom: 0;
   
-  }
+// //   }
 
-$my_color: lightblue;
+// // $my_color: lightblue;
 
-.wrapper {
-  max-width: 65%;
-  margin: 0 auto;
-  font-size: 18/16 *1em;
-}
+// // .wrapper {
+// //   max-width: 65%;
+// //   margin: 0 auto;
+// //   font-size: 18/16 *1em;
+// // }
 
-body {
-  background: $my_color;
+// // body {
+// //   background: $my_color;
 
-}
+// // }
 
-h1 {
-  font-weight: 800;
-  letter-spacing: 2px;
-  text-align: center;
-  font-size: 64/18*1em;
-}
-
-
-.columns {
-    width: 100%;
-  section {
-      width: 1/2.1 * 100%;
-      display: block;
-      float: left;
-      color: white;
-      padding: 5px 10px;
-      margin: 2px 2px;
-      background: navy;
-        &:first-child {
-          width: 100%;
-        }
-    }
-}
+// // h1 {
+// //   font-weight: 800;
+// //   letter-spacing: 2px;
+// //   text-align: center;
+// //   font-size: 64/18*1em;
+// // }
 
 
-
-nav {
-  margin: 0 auto;
-  text-align: center;
-  ul li {
-    list-style: none;
-    display: inline-block;
-    padding: 5px 15px;
-      a {
-      border: 1px solid black;
-      padding: 5px 15px;
-      font-weight: 900;
-      font-size: 1em;
-      }
-  }
-
-}
-
-footer {
-  clear: both;
-  text-align: center;
-  color: navy;
-}
-/*--------------------------------------
-MEDIA QUERIES
----------------------------------------- */
+// // .columns {
+// //     width: 100%;
+// //   section {
+// //       width: 1/2.1 * 100%;
+// //       display: block;
+// //       float: left;
+// //       color: white;
+// //       padding: 5px 10px;
+// //       margin: 2px 2px;
+// //       background: navy;
+// //         &:first-child {
+// //           width: 100%;
+// //         }
+// //     }
+// // }
 
 
-@media screen and (max-width: 599px) {
-  .wrapper {
-    max-width: 85%;
-  }
-  .columns section {
-    width: 100%;
-    float: left;
-  }
-}
+
+// // nav {
+// //   margin: 0 auto;
+// //   text-align: center;
+// //   ul li {
+// //     list-style: none;
+// //     display: inline-block;
+// //     padding: 5px 15px;
+// //       a {
+// //       border: 1px solid black;
+// //       padding: 5px 15px;
+// //       font-weight: 900;
+// //       font-size: 1em;
+// //       }
+// //   }
+
+// // }
+
+// // footer {
+// //   clear: both;
+// //   text-align: center;
+// //   color: navy;
+// // }
+// // /*--------------------------------------
+// // MEDIA QUERIES
+// // ---------------------------------------- */
+
+
+// // @media screen and (max-width: 599px) {
+// //   .wrapper {
+// //     max-width: 85%;
+// //   }
+// //   .columns section {
+// //     width: 100%;
+// //     float: left;
+// //   }
+// // }
 

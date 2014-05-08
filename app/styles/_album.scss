@@ -4,7 +4,7 @@
 
 .album-header-container {
   margin-top: 55px;
-  margin-bottom: 25px;
+  margin-bottom: 250px;
 
 }
 
@@ -51,6 +51,11 @@
 }
 }
   // editing the hover color for the song list
+
+
+.table-striped tbody tr:nth-child(odd) td {
+  background-color: rgba(purple, .4);
+}
 .table-hover tbody tr:hover td {
-  background-color: navy;
+  background-color: rgba(navy, .4);
 }
