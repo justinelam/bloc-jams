@@ -1,2 +1,56 @@
 // SASS stylings for the 'album' view.
 
+// Adding a margin around the Album Header solved our space problem.
+
+.album-header-container {
+  margin-top: 55px;
+  margin-bottom: 25px;
+
+}
+
+// This styles the right side of our Album Header
+.album-header-information {
+  //Pushes down the album information and makes sure there's sufficient space at the bottom
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+
+// Modifying the line height to increase space and below content. 
+
+.album-title, .album-artist, .album-meta-info {
+  line-height: 150%;
+}
+
+// Specific sizes and fonts for each element
+
+.album-title {
+  font-size: 48px;
+  @include font-open-sans(300);
+}
+
+.album-artist {
+  font-size: 24px;
+  @include font-open-sans(700);
+
+}
+
+.album-meta-info {
+  font-size: 16px;
+  @include font-open-sans(500);
+}
+
+// SONG LISTING //
+
+.table.album-song-listing {
+  // Override the font for the entire table
+  @include font-open-sans(300);
+  // Override defaults from Bootstrap
+  td {
+    padding: 20px;
+    border-top: 1px solid rgba(white, .4);
+}
+}
+  // editing the hover color for the song list
+.table-hover tbody tr:hover td {
+  background-color: navy;
+}
