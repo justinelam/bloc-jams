@@ -6,6 +6,7 @@ ul li {
 
 .thumbnail {
   background: none;
+  border: none;
 }
 
 .album-name {
@@ -17,8 +18,4 @@ ul li {
   font-size: 16px;
   @include font-open-sans(300);
   color: (rgba(white, 0.6))
-}
-
-.default-player-footer {
-  height: $default-player-footer;
 }
