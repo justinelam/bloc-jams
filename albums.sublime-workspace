@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-open-sans"
+			],
+			[
+				"default",
+				"default-player-footer-height"
+			],
+			[
+				"default-ply",
+				"default-player-footer"
+			],
+			[
+				"default-player",
+				"default-player-header"
+			],
+			[
+				"border",
+				"border-generator"
+			],
+			[
+				"n",
+				"nth-child"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"paddint",
+				"padding-left"
+			],
+			[
+				"bak",
+				"background-size"
+			],
+			[
+				"spa",
+				"word-spacing"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"b",
+				"border-spacing"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"div",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "express/views/album.jade",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/_album.scss",
+			"settings":
+			{
+				"buffer_size": 1254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/app.scss",
+			"settings":
+			{
+				"buffer_size": 2051,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/styles/_album_collection.scss",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "express/views/album_collection.jade",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "express/views/layouts/player_layout.jade",
+			"settings":
+			{
+				"buffer_size": 215,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/express/views/layouts/player_layout.jade",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/express/views/layouts/base_layout.jade",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/express/views/partials/default_player_footer.jade",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/app/styles/layouts/_player.scss",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/app/styles/_album.scss",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/node_modules/jade/jade-language.md",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/app/styles/imports/_buttons.scss",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/app/styles/style.scss",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/express/views/practice.jade",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/app/styles/app.scss",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/express/views/partials/default_player_header.jade",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/app/styles/imports/_variables.scss",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/app/styles/imports/_fonts.scss",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/node_modules/jade/Readme_zh-cn.md",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/express/views/practice2.jade",
+		"/Users/justinelam/Sites/Bloc/bloc-vagrant/bloc-jams/express/views/style.css",
+		"/Users/justinelam/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/justinelam/Sites/sonoma-model-a/js/foundation.min.js",
+		"/Users/justinelam/Sites/sonoma-model-a/public_html/foundation.html",
+		"/Users/justinelam/Sites/sonoma-model-a/craft/templates/scripts/jquery.cycle.min.js",
+		"/Users/justinelam/Sites/OCF-Homepage/index.html",
+		"/Users/justinelam/Sites/OCF-Homepage/css/style.css",
+		"/Users/justinelam/Sites/OCF-Homepage/css/test.css",
+		"/Users/justinelam/Sites/OCF-Homepage/css/test.sass",
+		"/Users/justinelam/Sites/Ideas for Websites to Create",
+		"/Users/justinelam/Sites/Health-Habits-Game/index.html",
+		"/Users/justinelam/Downloads/websitewaters-island01-stage03/index.html",
+		"/Users/justinelam/Downloads/websitewaters-island01-stage03/css/grid.css",
+		"/Users/justinelam/Sites/OCF-Homepage/js/app.js",
+		"/Users/justinelam/Sites/OCF-Homepage/js/jquery.js",
+		"/Users/justinelam/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/about/benefits_of_membership.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/Registration.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/links.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/about/officers_and_chairs.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/about/meeting_information.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/about/contact.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/about/contact/steve/index.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/about/contact/success.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/photos.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/sonoma_restaurants.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/tour_descriptions.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/trivia.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/wineries.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/self-guided-tours.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/raffle.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/index.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/Hubley.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/Coast_lunch_menu.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011/banquet_menu.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/calendar.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/mafca_2011.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/about/our_mission.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/join.html",
+		"/Users/justinelam/Sites/sonomamodela.com/craft/templates/index.html",
+		"/Users/justinelam/Sites/sonomamodela.com/public_html/assets/css/screen.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/justinelam/Sites/sonomamodela.com/craft/templates",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"head.jade",
+			"{",
+			".events",
+			"}",
+			"{",
+			"38px",
+			"computerChoice",
+			"userchoice",
+			"userChoice",
+			"choice2",
+			"}",
+			"<div",
+			"</div",
+			"<div class=\"span-24 bg_sidebar\">\n<div",
+			"mafca_strip",
+			"	\n",
+			"<!-- BEGIN SEARCH BOX -->\n<!-- <div id=\"search_bar\" class=\"span-24\">\n	\n	<form method=\"post\" action=\"/\"  >\n<div class='hiddenFields'>\n<input type=\"hidden\" name=\"ACT\" value=\"19\" />\n<input type=\"hidden\" name=\"XID\" value=\"593827a34820a91330edfd613ed7248250edd4a5\" />\n<input type=\"hidden\" name=\"RP\" value=\"search/results\" />\n<input type=\"hidden\" name=\"NRP\" value=\"\" />\n<input type=\"hidden\" name=\"RES\" value=\"\" />\n<input type=\"hidden\" name=\"status\" value=\"\" />\n<input type=\"hidden\" name=\"channel\" value=\"\" />\n<input type=\"hidden\" name=\"search_in\" value=\"\" />\n<input type=\"hidden\" name=\"where\" value=\"all\" />\n<input type=\"hidden\" name=\"site_id\" value=\"1\" />\n</div>\n\n\n		<input type=\"text\" name=\"search_box\" id=\"search_box\" value=\"\" size=\"18\" maxlength=\"100\" />\n		<input type=\"submit\" value=\"submit\" id=\"search_button\" class=\"submit\" />\n	</form>\n	\n</div> -->\n<!-- END SEARCH BOX -->",
+			"<!--[if IE]><link rel=\"stylesheet\" href=\"/css/ie.css\" type=\"text/css\" media=\"screen, projection\" /><![endif]-->\n	\n	<!--><link rel=\"alternate\" type=\"application/atom+xml\" title=\"\" href=\"\" />-->\n	<!-- BEGIN SEARCH BOX -->\n<!-- <div id=\"search_bar\" class=\"span-24\">\n	\n	<form method=\"post\" action=\"/\"  >\n<div class='hiddenFields'>\n<input type=\"hidden\" name=\"ACT\" value=\"19\" />\n<input type=\"hidden\" name=\"XID\" value=\"593827a34820a91330edfd613ed7248250edd4a5\" />\n<input type=\"hidden\" name=\"RP\" value=\"search/results\" />\n<input type=\"hidden\" name=\"NRP\" value=\"\" />\n<input type=\"hidden\" name=\"RES\" value=\"\" />\n<input type=\"hidden\" name=\"status\" value=\"\" />\n<input type=\"hidden\" name=\"channel\" value=\"\" />\n<input type=\"hidden\" name=\"search_in\" value=\"\" />\n<input type=\"hidden\" name=\"where\" value=\"all\" />\n<input type=\"hidden\" name=\"site_id\" value=\"1\" />\n</div>\n\n\n		<input type=\"text\" name=\"search_box\" id=\"search_box\" value=\"\" size=\"18\" maxlength=\"100\" />\n		<input type=\"submit\" value=\"submit\" id=\"search_button\" class=\"submit\" />\n	</form>\n	\n</div> -->\n<!-- END SEARCH BOX -->",
+			"<!--[if IE]><link rel=\"stylesheet\" href=\"/css/ie.css\" type=\"text/css\" media=\"screen, projection\" /><![endif]-->\n	\n	<!--><link rel=\"alternate\" type=\"application/atom+xml\" title=\"\" href=\"\" />-->\n	",
+			"<!-- BEGIN SEARCH BOX -->\n<!-- <div id=\"search_bar\" class=\"span-24\">\n	\n	<form method=\"post\" action=\"/\"  >\n<div class='hiddenFields'>\n<input type=\"hidden\" name=\"ACT\" value=\"19\" />\n<input type=\"hidden\" name=\"XID\" value=\"46a2b19207a41b5e5cf6df61f55786af21bbd62d\" />\n<input type=\"hidden\" name=\"RP\" value=\"search/results\" />\n<input type=\"hidden\" name=\"NRP\" value=\"\" />\n<input type=\"hidden\" name=\"RES\" value=\"\" />\n<input type=\"hidden\" name=\"status\" value=\"\" />\n<input type=\"hidden\" name=\"channel\" value=\"\" />\n<input type=\"hidden\" name=\"search_in\" value=\"\" />\n<input type=\"hidden\" name=\"where\" value=\"all\" />\n<input type=\"hidden\" name=\"site_id\" value=\"1\" />\n</div>\n\n\n		<input type=\"text\" name=\"search_box\" id=\"search_box\" value=\"\" size=\"18\" maxlength=\"100\" />\n		<input type=\"submit\" value=\"submit\" id=\"search_button\" class=\"submit\" />\n	</form>\n	\n</div> -->\n<!-- END SEARCH BOX -->",
+			"<!-- BEGIN SEARCH BOX -->\n<!-- <div id=\"search_bar\" class=\"span-24\">\n	\n	<form method=\"post\" action=\"/\"  >\n<div class='hiddenFields'>\n<input type=\"hidden\" name=\"ACT\" value=\"19\" />\n<input type=\"hidden\" name=\"XID\" value=\"46a2b19207a41b5e5cf6df61f55786af21bbd62d\" />\n<input type=\"hidden\" name=\"RP\" value=\"search/results\" />\n<input type=\"hidden\" name=\"NRP\" value=\"\" />\n<input type=\"hidden\" name=\"RES\" value=\"\" />\n<input type=\"hidden\" name=\"status\" value=\"\" />\n<input type=\"hidden\" name=\"channel\" value=\"\" />\n<input type=\"hidden\" name=\"search_in\" value=\"\" />\n<input type=\"hidden\" name=\"where\" value=\"all\" />\n<input type=\"hidden\" name=\"site_id\" value=\"1\" />\n</div>\n\n\n		<input type=\"text\" name=\"search_box\" id=\"search_box\" value=\"\" size=\"18\" maxlength=\"100\" />\n		<input type=\"submit\" value=\"submit\" id=\"search_button\" class=\"submit\" />\n	</form>\n	\n</div> -->\n<!-- END SEARCH BOX -->\n",
+			"<!-- BEGIN MEMBER LOGIN\n	<div class=\"span-4\">		\n		<ul>\n		<li class=\"navbar_user_login\">Username</li>\n		<li class=\"navbar_user_login\">Password</li>\n		<li class=\"small\">Forgot your password?</li>\n		</ul>\n	</div>\n	 END MEMBER LOGIN -->",
+			"		<!-- <li><a href=\"/classifieds\">Classifieds</a></li> -->",
+			"<!-- <li><a href=\"/travel_blog\">Travel Blog</a></li>\n		<li><a href=\"/era_fashions\">Era Fashions</a></li> -->",
+			"<!-- Temporary location -->",
+			"stop",
+			"<body id=\"join\" class=\"_template\">\n	<div class=\"container\">",
+			"<div style=\"background:#271A0A;padding-bottom:15px;text-align:right;\"><span class=\"spotlight\" style=\"background:#f6d27b;-webkit-border-radius:10px;color:#271A0A;font-weight:bold;padding:4px 20px;\">Looking for info on 2011 MAFCA National Awards Banquet?  <a href=\"/mafca_2011\">Click here!</a></span></div>",
+			"<div class=\"span-24 mafca_strip\">Model A Ford Club of America, Sonoma County, CA</div>",
+			"Looking for info on 2011 MAFCA National Awards Banquet?  <a href=\"/mafca_2011\">Click here!</a>",
+			"SonomaModelA_Application.pdf",
+			"sonomamodela",
+			"http://www.sonomamodela.com/images/uploads/blog_entries/",
+			"sonomamodela",
+			"sonomamodela.com",
+			"/body",
+			"http://www.sonomamodela.com",
+			"home",
+			"css",
+			"Home",
+			"sonomalmodela.com",
+			"jpg",
+			"nav_global",
+			"nav",
+			"flash_highlight",
+			"flash",
+			"../",
+			"sonomamodela.com",
+			"jpg",
+			"png",
+			"jpg",
+			"http://sonomamodela.com",
+			"sonomamodela.com/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<body id=\"join\" class=\"_template\">\n	<div class=\"container\">\n\n		\n<style>.spotlight p {display:inline; background:#f6d27b;-webkit-border-radius:10px;color:#271A0A;font-weight:bold;padding:4px 20px;}</style>",
+			"<div style=\"background:#271A0A;padding-bottom:15px;text-align:right;\" class=\"spotlight\"> {{ header.announcement }}</div>",
+			"<div class=\"span-24 mafca_strip\">{{ header.heading }}</div>",
+			"/assets/images/uploads/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "express/views/album.jade",
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/_album.scss",
+					"settings":
+					{
+						"buffer_size": 1254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1253,
+								1253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 241.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/styles/app.scss",
+					"settings":
+					{
+						"buffer_size": 2051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1310,
+								1310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/styles/_album_collection.scss",
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "express/views/album_collection.jade",
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "express/views/layouts/player_layout.jade",
+					"settings":
+					{
+						"buffer_size": 215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 27.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/justinelam/Sites/sonoma-model-a/craft/templates/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}

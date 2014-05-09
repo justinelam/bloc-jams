@@ -1,3 +1,11 @@
 extends layouts/player_layout
 
 block content
+  div.row
+    div.col-xs-6.col-md-2
+      -for (var x = 0; x<33; x++)
+        a.thumbnail(#)
+          img(src="images/album-placeholder.png")
+          p Album Name
+          p Artist Name
+          p X songs

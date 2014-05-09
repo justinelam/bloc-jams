@@ -5,26 +5,26 @@ block content
 
   .container.album-container
     .row.album-header-container
-      // -what does this class alum-header-container and row do?
-      .col-md-3
-        img(src="images/album-placeholder.png")
-      .col-md-9.col-md-push-1
+      // -what does this class album-header-container and row do?
+      .col-md-3.col-sm-12
+        img.img-responsive.album(src="images/album-placeholder.png")
+      .col-md-9.col-sm-8
         .album-header-information
           h3.album-title The Colors
           h4.album-artist Pablo Picasso
           h5.album-meta-info 1881 on Cubism
       // SONG LIST //
-      .row
-        .col-md-12      
-          table.table.album-song-listing.table-striped.table-hover
-            thead
-            // added styling for song list
-            each colorName, index in ['Blue', 'Green', 'Red', 'Pink', 'Magenta']
-              // this is a loop body
-              tr
-                td= index
-                td= colorName
-                td X:XX
+    .row
+      .col-md-12      
+        table.table.album-song-listing.table-striped.table-hover
+          thead
+          // added styling for song list
+          each colorName, index in ['Blue', 'Green', 'Red', 'Pink', 'Magenta']
+            // this is a loop body
+            tr
+              td= index
+              td= colorName
+              td X:XX
 
             
           
